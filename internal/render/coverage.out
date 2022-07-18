@@ -1,0 +1,23 @@
+mode: set
+github.com/becunningham/bookings/internal/render/render.go:21.40,23.2 1 1
+github.com/becunningham/bookings/internal/render/render.go:26.84,32.2 5 1
+github.com/becunningham/bookings/internal/render/render.go:35.105,38.18 2 1
+github.com/becunningham/bookings/internal/render/render.go:45.2,46.9 2 1
+github.com/becunningham/bookings/internal/render/render.go:51.2,58.16 5 1
+github.com/becunningham/bookings/internal/render/render.go:63.2,63.12 1 1
+github.com/becunningham/bookings/internal/render/render.go:38.18,41.3 1 1
+github.com/becunningham/bookings/internal/render/render.go:41.8,43.3 1 0
+github.com/becunningham/bookings/internal/render/render.go:46.9,49.3 1 1
+github.com/becunningham/bookings/internal/render/render.go:58.16,61.3 2 0
+github.com/becunningham/bookings/internal/render/render.go:68.67,73.16 3 1
+github.com/becunningham/bookings/internal/render/render.go:77.2,77.29 1 1
+github.com/becunningham/bookings/internal/render/render.go:99.2,99.21 1 1
+github.com/becunningham/bookings/internal/render/render.go:73.16,75.3 1 0
+github.com/becunningham/bookings/internal/render/render.go:77.29,80.17 3 1
+github.com/becunningham/bookings/internal/render/render.go:84.3,85.17 2 1
+github.com/becunningham/bookings/internal/render/render.go:89.3,89.23 1 1
+github.com/becunningham/bookings/internal/render/render.go:96.3,96.21 1 1
+github.com/becunningham/bookings/internal/render/render.go:80.17,82.4 1 0
+github.com/becunningham/bookings/internal/render/render.go:85.17,87.4 1 0
+github.com/becunningham/bookings/internal/render/render.go:89.23,91.18 2 1
+github.com/becunningham/bookings/internal/render/render.go:91.18,93.5 1 0
